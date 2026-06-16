@@ -1,0 +1,70 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+*.egg
+dist/
+eggs/
+*.manifest
+*.spec
+
+# ========================
+# PyInstaller
+# ========================
+build/
+dist/
+*.spec
+
+# ========================
+# Virtual Environments
+# ========================
+venv/
+.venv/
+env/
+.env/
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ========================
+# OS Generated Files
+# ========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# ========================
+# Logs & Temp Files
+# ========================
+*.log
+output.log
+qml_error.txt
+
+# ========================
+# Test / Scratch Files
+# ========================
+scratch/
+test_*.txt
+test_*.png
+test_*.jpg
+
+# ========================
+# Gemini / Antigravity IDE
+# ========================
+.gemini/
+implementation_plan.md
